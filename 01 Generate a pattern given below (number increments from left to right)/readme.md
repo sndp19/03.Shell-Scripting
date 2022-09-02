@@ -20,10 +20,12 @@ Test Case 1:
 ./pattern_01.sh
 
 Enter the number : 4
+
 1
 1 2
 1 2 3
 1 2 3 4
+
 Test Case 2: 
 ./pattern_01.sh
 Enter the number : 2
