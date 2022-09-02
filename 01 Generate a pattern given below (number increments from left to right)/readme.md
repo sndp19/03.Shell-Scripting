@@ -16,18 +16,5 @@ How to change executable permission of a file.
 Read a number from user
 Create the pattern given
 Sample execution: -
-Test Case 1:
-./pattern_01.sh
-
-Enter the number : 4
-
-1
-1 2
-1 2 3
-1 2 3 4
-
-Test Case 2: 
-./pattern_01.sh
-Enter the number : 2
-1
-1 2
+ 
+ ![Capture](https://user-images.githubusercontent.com/49518103/188064186-431787dc-0490-4b6f-8dee-0d379a8ac2f0.JPG)
